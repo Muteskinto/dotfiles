@@ -5,4 +5,5 @@ set ruler
 set shiftwidth=4
 set tabstop=4
 set nowrap
-colorscheme slate
+set cursorline
+colorscheme spring-night
